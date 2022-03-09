@@ -16,7 +16,7 @@ We shall be comparing two models  -
 but from the outputs of preceeding leayers. LTSM also resolves the problem of exploding and vanishing gradient.
 
 A good description of LTSM is described [here](https://tung2389.github.io/coding-note/unitslstm)
-![LTSM](./IMG/LSTM true.jpg "LTSM")
+![LTSM](./IMG/LSTM_true.jpg "LTSM")
 
 LTSM hence is a good model to run against Stock price time series data.
 ---
