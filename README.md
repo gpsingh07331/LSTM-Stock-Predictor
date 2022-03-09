@@ -85,6 +85,8 @@ Now let us compare a 10 day window vs 5 day window for previous closing price im
 
 Closing price model provides a  lower loss for either window size over FNG model.
 
+>5 Window Size: Closing Price Loss=0.03 vs FNG Loss=0.10
+
 - *Determine which model tracks the actual values best over time.*
 
 Closing price model provides a better prediction  for either window size over FNG model.
